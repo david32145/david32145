@@ -17,7 +17,6 @@ My name is David Nascimento, i'm an software development and student. I love pro
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/david32145/)](https://github.com/david32145/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/david32145/)](https://github.com/david32145/)
 
-
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/david32145/)](https://github.com/david32145/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/david32145/)](https://github.com/david32145/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/david32145/)](https://github.com/david32145/)
