@@ -29,6 +29,5 @@ My name is David Nascimento, i'm an software development and student. I love pro
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/david32145/)](https://github.com/david32145/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/david32145/)](https://github.com/david32145/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/david32145/)](https://github.com/david32145/)
-[![Actions](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square&logo=github-actions&logoColor=white&link=https://github.com/david32145/)]
-(https://github.com/david32145/)
+[![Actions](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square&logo=github-actions&logoColor=white&link=https://github.com/david32145/)](https://github.com/david32145/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/david32145/)](https://github.com/david32145/)
