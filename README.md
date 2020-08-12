@@ -5,7 +5,7 @@
 
 Hi there
 
-My name is David Nascimento, i'm an software development and student. I love programing and software architecture. Currently i'm focused on study _ReactJS_, _React Native_ and _NodeJS_. I like automatic tests(TDD), domain drive design(DDD), docker e github action (CI/CD).
+My name is David Nascimento, i'm an software development and student. I love programing and software architecture. Currently i'm focused on study _ReactJS_, _React Native_ and _NodeJS_. I like automatic tests(TDD), domain drive design(DDD), docker and github action (CI/CD).
 
 ### Knowledges
 
