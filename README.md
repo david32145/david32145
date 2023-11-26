@@ -5,7 +5,8 @@
 
 Hi there
 
-My name is David Nascimento, i'm an software development and student. I love programing and software architecture. Currently i'm focused on study _ReactJS_, _React Native_ and _NodeJS_. I like automatic tests(TDD), domain drive design(DDD), docker and github action (CI/CD).
+My name is David Nascimento i'm software develop since January 2021. In this journey I'm acquire skill to do integration with other services, feature design, use agile frameworks, delivery great code quality and delivery valuable products.
+I have working with front-end technologies like _React_, _JavaScript_, _CSS_, _HTML_, _SASS_ and a lot of other tools. I have working in back end too, using technologies like _Java_, _Node_, _PostgreSQL_, _MySQL_, _Redis_ and soon on. Of course, i'm used to work with _Git_, _GitHub_, _Git lab_ and agile frameworks (_Scrum_ and _Kaban_).
 
 ### Knowledges
 
